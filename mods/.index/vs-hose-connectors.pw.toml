@@ -1,0 +1,16 @@
+filename = 'VS-Sable-HoseConnectors-0.1.7-1.21.1.jar'
+name = 'VS / Sable Hose Connectors'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ded17b28f3e123ffe102244c726e3888515e043dfe1bec7d16c76d2bb23792c595002a54d3aa5e516625d15638fe2d5ae73ed9e1a5e775588f36495fd9268a99'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YaZEkFmd/versions/MCVX5oYb/VS-Sable-HoseConnectors-0.1.7-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'YaZEkFmd'
+version = 'MCVX5oYb'
